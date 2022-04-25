@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=SquirrelPlay
+comment1.params=temp\ isSummer
+comment1.target=boolean\ squirrelPlay(int,\ boolean)
+numComments=2

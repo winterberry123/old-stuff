@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Inputs
+comment1.params=input\ maxChoice
+comment1.target=java.lang.String\ getChoice(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ Gets\ the\ choice\ that\ the\ user\ provided,\ or\ null\ if\ the\ \r\n\ \ \ \ \ \ user\ didn't\ provide\ a\ valid\ choice.\r\n\ \ \ \ \ \ @param\ input\ the\ user\ input\r\n\ \ \ \ \ \ @param\ maxChoice\ the\ maximum\ valid\ choice,\ e.g.\ "D"\ if\ there\r\n\ \ \ \ \ \ are\ four\ choices.\r\n\ \ \ \ \ \ @return\ the\ user\ input\ if\ it\ was\ a\ valid\ choice\ (i.e.\ length\ 1\r\n\ \ \ \ \ \ and\ between\ "A"\ and\ maxChoice),\ null\ otherwise\r\n
+numComments=2

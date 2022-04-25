@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CirclePane
+comment1.params=
+comment1.target=CirclePane()
+comment2.params=
+comment2.target=void\ enlarge()
+comment3.params=
+comment3.target=void\ shrink()
+numComments=4

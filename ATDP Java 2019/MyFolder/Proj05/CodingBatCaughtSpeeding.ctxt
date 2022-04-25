@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CodingBatCaughtSpeeding
+comment0.text=\r\n\r\n\ @author\ Joyce\ Chen\r\n\ @version\ 01\r\n
+comment1.params=speed\ isBirthday
+comment1.target=int\ caughtSpeeding(int,\ boolean)
+numComments=2

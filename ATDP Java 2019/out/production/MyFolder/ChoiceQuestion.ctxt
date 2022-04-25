@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ChoiceQuestion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ChoiceQuestion\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ChoiceQuestion()
+comment1.text=\r\n\ Constructs\ a\ ChoiceQuestion\ object.\r\n
+comment2.params=newChoice
+comment2.target=void\ addChoice(java.lang.String)
+comment2.text=\r\n\ Adds\ a\ choice\ to\ the\ answer\ choices.\r\n\ @param\ newChoice\ the\ choice\ you\ are\ adding\r\n
+comment3.params=
+comment3.target=void\ display()
+comment3.text=\r\n\ Displays\ the\ question\ and\ the\ answer\ choices.\r\n
+numComments=4

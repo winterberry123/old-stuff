@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=WordsStutter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WordsStutter\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=s
+comment1.target=java.lang.String\ stutter(java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ Computes\ a\ string\ that\ repeats\ every\ letter\ 't'\ in\ the\ original\ string.\r\n\ \ \ \ \ \ @param\ s\ any\ string\r\n\ \ \ \ \ \ @return\ a\ string\ with\ the\ same\ characters\ as\ s,\ except\ that\ every\ letter\ 't'\ is\ repeated\r\n
+numComments=2

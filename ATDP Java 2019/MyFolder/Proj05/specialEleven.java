@@ -1,0 +1,19 @@
+
+/**
+ * Write a description of class specialEleven here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+public class specialEleven
+{
+    public boolean specialEleven(int n) {
+      if (n % 11 == 0 || n % 11 == 1 ){
+        return true;
+      }
+      else {
+        return false;
+      }
+    }
+
+}
